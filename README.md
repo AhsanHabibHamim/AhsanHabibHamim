@@ -24,19 +24,3 @@
 - **LinkedIn:** [linkedin.com/in/ahsan-habib](#)  
 
 ---
-
-### **Step 3: Add Fun Elements (Optional)**
-1. **Badges:** Use [Shields.io](https://shields.io/) to create custom badges for skills/tools.
-2. **Dynamic Content:**  
-   - GitHub Profile Views:  
-     ```markdown
-     ![Profile Views](https://komarev.com/ghpvc/?username=AhsanHabib&color=blue)
-     ```  
-   - Top Languages Card:  
-     ```markdown
-     ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanHabib&layout=compact)
-     ```
-
----
-
-
