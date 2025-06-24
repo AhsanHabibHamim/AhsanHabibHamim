@@ -1,42 +1,18 @@
-# 👋 Hi, I'm Ahsan Habib
+# 💫 About Me:
+I am currently working on Full-Stack Web development<br>I am working with HTML, CSS, React, Node.js, MongoDB, Express, Tailwind CSS<br>
 
-🎯 **Web Developer** | 🛠️ **MERN Stack Specialist** | 🌐 **WordPress & SEO Expert**  
-🚀 I’m passionate about building interactive and dynamic websites, solving problems with code, and exploring cutting-edge technologies like ML Engineering.  
 
-## 🔧 **Technologies & Tools**
-- 💻 **Languages:** JavaScript, Python  
-- 🌐 **Frontend:** React, Tailwind CSS, HTML, CSS  
-- 🖥️ **Backend:** Node.js, Express.js, MongoDB  
-- 🎨 **CMS:** WordPress (Themes & Plugins Development)  
-- 📊 **SEO:** Advanced On-Page & Off-Page Optimization  
-- ⚙️ **Other Tools:** Git, GitHub, Figma  
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ahsanhabibhamim) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AhsanHabibHamim3.0) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahsan_habibhamim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsanhabibhamim) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@/@codeandtechwithahsan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahsanhabibhamim78@gmail.com) 
 
-## 💼 **Projects**
-- 🌟 [**Dynamic Portfolio Website**](#) – A modern and responsive personal portfolio website built using the MERN stack (MongoDB, Express.js, React, Node.js). The site showcases my skills, projects, and professional experience, featuring a dynamic blog section integrated with SEO best practices.
-
-Features:
-User-friendly UI/UX design with React and Tailwind CSS.
-Backend API for blog management and contact form submissions using Node.js and Express.js.
-Integrated Google Analytics for performance tracking.
-Deployed on Vercel with CI/CD automation.
-Skills Used: React, Tailwind CSS, Node.js, MongoDB, SEO Optimization.
-.  
-- 🌟 [**WordPress Custom Theme & Plugin**](#) – Developed a custom WordPress theme and plugin for a small business website to improve usability and SEO performance. The theme is fully responsive, lightweight, and optimized for fast loading.
-
-Features:
-Custom theme with flexible layout options for blogs and portfolios.
-SEO-friendly features including schema markup and metadata handling.
-A plugin for managing dynamic testimonials and user reviews.
-Integration with Google Maps and third-party APIs for enhanced functionality.
-Skills Used: PHP, WordPress, JavaScript, HTML, CSS, SEO Best Practices.
- 
-
-## 📈 **GitHub Stats**
-![Ahsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhsanHabib&show_icons=true&theme=radical)
-
-## 📫 **Contact Me**
-- **Website:** [cforcode.odoo.com](#)  
-- **Email:** coderahsan3.0@gmail.com  
-- **LinkedIn:** [(https://bd.linkedin.com/in/ahsan-habib-hamim)](#)  
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AhsanHabibHamim&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AhsanHabibHamim&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanHabibHamim&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=AhsanHabibHamim&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
