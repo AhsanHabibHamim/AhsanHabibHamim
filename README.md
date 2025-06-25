@@ -1,13 +1,13 @@
 # 💫 About Me
 Hi! I'm **Ahsan Habib Hamim** — a passionate and self-motivated Full Stack Web Developer from Bangladesh 🇧🇩.  
 I specialize in building modern web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js), with additional experience in Tailwind CSS, WordPress, and deployment tools.
-
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="23%" />
 🔭 Currently working on:  
 - Full-Stack Projects  
 - Personal Portfolio  
 - Real-Life Recipe Management App
 - GoFast (A parcel service system)
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="23%" />
+
 🌱 Currently exploring:  
 - React for Frontend 
 -  Express.js, Node.js for Backend 
