@@ -1,6 +1,20 @@
-# 💫 About Me
-Hi! I'm **Ahsan Habib Hamim** — a passionate and self-motivated Full Stack Web Developer from Bangladesh 🇧🇩.  
-I specialize in building modern web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js), with additional experience in Tailwind CSS, WordPress, and deployment tools.
+```javascript
+const thai = {
+  name: "Ahsan Habib Hamim"
+  pronouns: "he" | "him",
+  code: [Javascript, Node.js, HTML, CSS, Tailwind, MongoDB, Express, Firebase],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        certification: "NSDA, Bangladesh",
+                        member: "Dhaka Polytechnic Institute Computer Club",
+                        mentor: "Tech and Code with Ahsan"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="23%" />
 🔭 Currently working on:  
 - Full-Stack Projects  
